@@ -9,7 +9,7 @@ A variable name cannot start with a number.
 A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
 */
 
-$message = "Practice again again";
+$message = "Practice again and again";
 
 echo $message;
 
